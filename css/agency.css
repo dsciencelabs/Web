@@ -28,6 +28,7 @@ h5,
 h6 {
   font-weight: 10;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color:#555555;
 }
 
 section {
@@ -701,11 +702,11 @@ ul.social-buttons li a {
   color: white;
   border-radius: 100%;
   outline: none;
-  background-color: #212529;
+  background-color: #555555;
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-  background-color: #fed136;
+  background-color: #ffc107;
 }
 
 
